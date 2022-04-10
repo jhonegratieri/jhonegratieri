@@ -7,7 +7,7 @@ Electrical engineering student looking to become a professional in the developme
 
 <div>
 <img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=brightgreen" />
-<img alt="c" src="https://img.shields.io/badge/C-191622?style=for-the-badge&logo=c&logoColor=A8B9CC" />
+<img alt="c" src="https://img.shields.io/badge/C-191622?style=for-the-badge&logo=c&logoColor=brightgreen" />
 </div>
 <br>
 

@@ -1,16 +1,31 @@
-### Hi there 👋
+ ##  ABOUT ME
 
-<!--
-**jhonegratieri/jhonegratieri** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electrical engineering student looking to become a professional in the development field.
+<br>
 
-Here are some ideas to get you started:
+##  MY STACK
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+<img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=brightgreen" /></div>
+
+##  WHERE TO FIND ME
+<div>
+<a href="https://www.linkedin.com/in/jhonatan-gratieri-simoni/"><img alt="linked-in" src="https://img.shields.io/badge/linkedin-191622?&style=for-the-badge&logo=linkedin&logoColor=brightgreen" /></a>
+<a href="https://pt.stackoverflow.com/users/283877/jhonatan-gratieri-simoni"><img alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-191622?logo=stack-overflow&logoColor=brightgreen&style=for-the-badge" /></a>
+</div>
+
+##  STATS
+<div>
+<img src="https://github-readme-stats.vercel.app/api?username=jhonegratieri&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" /> 
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonegratieri&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&layout=compact" />
+</div>
+
+### LAPTOP SPECS
+<div>
+<img src="https://img.shields.io/badge/AMD_Ryzen_5_5500G-191622?style=for-the-badge&logo=amd&logoColor=brightgreen" />
+</br>
+<img src="https://img.shields.io/badge/Lenovo_IdeaPad_i3-191622?style=for-the-badge&logo=lenovo&logoColor=brightgreen" />
+</br>
+<img src="https://img.shields.io/badge/Windows_10-191622?style=for-the-badge&logo=windows&logoColor=brightgreen" />
+</br>
+</div>

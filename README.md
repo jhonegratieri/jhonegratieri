@@ -6,21 +6,23 @@ Electrical engineering student looking to become a professional in the developme
 ##  MY STACK
 
 <div>
-<img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=brightgreen" />
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />         
+<img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=brightgreen" />     
 </div>
+<br>
 
 ##  WHERE TO FIND ME
 <div>
 <a href="https://www.linkedin.com/in/jhonatan-gratieri-simoni/"><img alt="linked-in" src="https://img.shields.io/badge/linkedin-191622?&style=for-the-badge&logo=linkedin&logoColor=brightgreen" /></a>
 <a href="https://pt.stackoverflow.com/users/283877/jhonatan-gratieri-simoni"><img alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-191622?logo=stack-overflow&logoColor=brightgreen&style=for-the-badge" /></a>
 </div>
+<br>
 
 ##  STATS
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=jhonegratieri&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonegratieri&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&layout=compact" />
 </div>
+<br>
 
 ### LAPTOP SPECS
 <div>

@@ -7,6 +7,7 @@ Electrical engineering student looking to become a professional in the developme
 
 <div>
 <img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=brightgreen" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-line.svg" />         
 </div>
 
 ##  WHERE TO FIND ME

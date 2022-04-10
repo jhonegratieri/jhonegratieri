@@ -6,7 +6,8 @@ Electrical engineering student looking to become a professional in the developme
 ##  MY STACK
 
 <div>
-<img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=brightgreen" /></div>
+<img alt="python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=yellow" />
+</div>
 
 ##  WHERE TO FIND ME
 <div>

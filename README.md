@@ -35,6 +35,6 @@ Electrical engineering student looking to become a professional in the developme
 </br>
 <img src="https://img.shields.io/badge/Windows_10-191622?style=for-the-badge&logo=windows&logoColor=brightgreen" />
 </br>
-<img src="https://img.shields.io/badge/Linux-191622?style=for-the-badge&logo=linux&logoColor=brightgreen" />
+<img src="https://img.shields.io/badge/Pop!OS-191622?style=for-the-badge&logo=popos&logoColor=brightgreen" />
 </br>
 </div>

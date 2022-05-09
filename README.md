@@ -29,7 +29,7 @@ Electrical engineering student looking to become a professional in the developme
 
 ## Test
 <div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonegratieri&theme=solarizad" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonegratieri&theme=solarized" />
 </div>
 <br>
 

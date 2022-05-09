@@ -24,12 +24,7 @@ Electrical engineering student looking to become a professional in the developme
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=jhonegratieri&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonegratieri&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&layout=compact" />
-</div>
-<br>
-
-## Test
-<div>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonegratieri&theme=solarized" />
+ <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonegratieri&theme=solarized" />
 </div>
 <br>
 

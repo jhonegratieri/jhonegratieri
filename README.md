@@ -27,6 +27,12 @@ Electrical engineering student looking to become a professional in the developme
 </div>
 <br>
 
+## Test
+<div>
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonegratieri&theme=solarized_dark" />
+</div>
+<br>
+
 ### LAPTOP SPECS
 <div>
 <img src="https://img.shields.io/badge/AMD_Ryzen_5_5500G-191622?style=for-the-badge&logo=amd&logoColor=brightgreen" />

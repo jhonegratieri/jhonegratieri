@@ -17,7 +17,7 @@ Electrical engineering student looking to become a professional in the developme
 ##  WHERE TO FIND ME
 <div>
 <a href="https://www.linkedin.com/in/jhonatan-gratieri-simoni/"><img alt="linked-in" src="https://img.shields.io/badge/linkedin-191622?&style=for-the-badge&logo=linkedin&logoColor=brightgreen" /></a>
-<a href="https://pt.stackoverflow.com/users/283877/jhonatan-gratieri-simoni"><img alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-191622?logo=stack-overflow&logoColor=brightgreen&style=for-the-badge" /></a>
+<!-- <a href="https://pt.stackoverflow.com/users/283877/jhonatan-gratieri-simoni"><img alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-191622?logo=stack-overflow&logoColor=brightgreen&style=for-the-badge" /></a> -->
 </div>
 <br>
 
@@ -25,7 +25,7 @@ Electrical engineering student looking to become a professional in the developme
 <div>
 <img src="https://github-readme-stats.vercel.app/api?username=jhonegratieri&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true" /> 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jhonegratieri&count_private=true&show_icons=true&theme=chartreuse-dark&hide_border=true&layout=compact" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonegratieri&theme=solarized_dark" />
+<!-- <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jhonegratieri&theme=solarized_dark" /> -->
 </div>
 <br>
 

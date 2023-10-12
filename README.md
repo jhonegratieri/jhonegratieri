@@ -7,6 +7,7 @@ Electrical engineering student looking to become a professional in the developme
 
 <div>
 <img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=brightgreen" />
+<img alt="django" src="https://img.shields.io/badge/Django-191622?style=for-the-badge&logo=django&logoColor=brightgreen" />
 <img alt="c" src="https://img.shields.io/badge/C-191622?style=for-the-badge&logo=c&logoColor=brightgreen" />
 <img alt="c++" src="https://img.shields.io/badge/C++-191622?style=for-the-badge&logo=cplusplus&logoColor=brightgreen" />
 <img alt="mysql" src="https://img.shields.io/badge/MySQL-191622?style=for-the-badge&logo=mysql&logoColor=brightgreen" />

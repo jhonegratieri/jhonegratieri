@@ -1,6 +1,6 @@
  ##  ABOUT ME
 
-Electrical engineering student looking to become a professional in the development field.
+Backend developer with a bachelor's degree in Electrical Engineering from the Federal Institute of Espírito Santo.
 <br>
 
 ##  MY STACK
@@ -8,7 +8,11 @@ Electrical engineering student looking to become a professional in the developme
 <div>
 <img alt="python" src="https://img.shields.io/badge/Python-191622?style=for-the-badge&logo=python&logoColor=brightgreen" />
 <img alt="django" src="https://img.shields.io/badge/Django-191622?style=for-the-badge&logo=django&logoColor=brightgreen" />
-<img alt="docker" src="https://img.shields.io/badge/Docker-191622?style=for-the-badge&logo=docker&logoColor=brightgreen" />
+<img alt="typescript" src="https://img.shields.io/badge/typescript-191622?style=for-the-badge&logo=typescript&logoColor=brightgreen" />
+<img alt="nodejs" src="https://img.shields.io/badge/Node.js-191622?style=for-the-badge&logo=nodedotjs&logoColor=brightgreen" />
+<img alt="nestjs" src="https://img.shields.io/badge/NestJS-191622?style=for-the-badge&logo=nestjs&logoColor=brightgreen" />
+<img alt="docker" src="https://img.shields.io/badge/Docker-191622?style=for-the-badge&logo=docker&logoColor=brightgreen" /> 
+<br> 
 <img alt="javascript" src="https://img.shields.io/badge/Javascript-191622?style=for-the-badge&logo=javascript&logoColor=brightgreen" />
 <img alt="c" src="https://img.shields.io/badge/C-191622?style=for-the-badge&logo=c&logoColor=brightgreen" />
 <img alt="c++" src="https://img.shields.io/badge/C++-191622?style=for-the-badge&logo=cplusplus&logoColor=brightgreen" />
